@@ -1,0 +1,25 @@
+{
+  "title": "BasicButtons Material Demo",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "name": "agent-stdu",
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.0.6/docs/src/pages/components/buttons/BasicButtons.tsx",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "5.1.0",
+    "@mui/material": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "6.0.2",
+    "typescript": "latest"
+  },
+  "keywords": []
+}
